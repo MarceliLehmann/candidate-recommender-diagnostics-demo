@@ -2,7 +2,7 @@
 
 A portfolio-safe demo project showing how to diagnose and improve a simple skill-based candidate recommender.
 
-The project uses **synthetic data only**. It does not contain any proprietary recruitment materials, company data, private candidate information, or original take-home assignment content.
+The project uses **synthetic data only**. It does not contain any proprietary recruitment materials, company data, private candidate information.
 
 ## What this project shows
 
